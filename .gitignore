@@ -1,3 +1,6 @@
 .idea/
-ox.iml
+*.iml
 target/
+.classpath
+.project
+.settings/
